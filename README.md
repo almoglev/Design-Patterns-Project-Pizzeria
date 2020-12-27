@@ -9,7 +9,7 @@ The system will allow the user to choose a dish from the menu - pizza with toppi
 3 Things will happen then:
 
 - The dish price is calculated.
-- The customer will choose paying method- cash or credit card. If credit card is chosen we will connect to the bank's system that validates the user's details.
+- The customer will choose a payment method- cash or credit card. If credit card is chosen we will connect to the bank's system that validates the user's details.
 - The order will be sent to the kitchen.
 
 # Design Patterns
@@ -32,16 +32,19 @@ Creating the chosen toppings on the pizza.
 
 
 ## 5. Template Method
-Letting the customer choose a condiments for a hot drink.
+Letting the customer choose a condiment for a hot drink.
 Each hot drink offers a different condiment (Tea- lemon, Coffee- milk, Hot Chocolate- cream).
 
 
 ## 6. Strategy
-Letting the costumer choose his preferable paying method- cash or credit card.
+Letting the customer choose his preferable payment method- cash or credit card.
 
 
 ## 7. Façade
 If credit card is chosen, we will communcicate with the Façade of the bank in order to validate the user's details.
+
+## 8. OutputHandler
+Using Strategy and Factory design patterns we created an easy way to choose between different GUI implementations.
 
 
 ## UML
