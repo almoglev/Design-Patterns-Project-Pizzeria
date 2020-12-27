@@ -48,7 +48,7 @@ Using Strategy and Factory design patterns we created an easy way to choose betw
 
 
 ## UML
-![](uml.png)
+![](UML.png)
 
 
 ## Use Case Diagram
