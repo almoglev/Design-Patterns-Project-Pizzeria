@@ -2,7 +2,7 @@
 This project shows the use of many DP in order to create clean, reusable and easily maintained code.
 
 The project focuses on the idea of creating an end-to-end order management system for a pizzeria.
-The tagert audience are waiters who work in the pizzeria and need to provide service for the customers.
+The tagert audience are waiters who work in the pizzeria and need to provide service to the customers.
 
 The system will allow the user to choose a dish from the menu - pizza with toppings and cold/hot drink.
 
