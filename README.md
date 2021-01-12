@@ -48,8 +48,8 @@ Using Strategy and Factory design patterns we created an easy way to choose betw
 
 
 ## UML
-![](UML.png)
+![Design-Patterns-Project-Pizzeria](UML.png)
 
 
 ## Use Case Diagram
-![](usecase.png)
+![Design-Patterns-Project-Pizzeria](usecase.png)
