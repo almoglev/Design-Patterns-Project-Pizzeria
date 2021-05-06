@@ -1,5 +1,5 @@
 # Design-Patterns-Project-Pizzeria
-This project shows the use of many DP in order to create clean, reusable and easily maintained code.
+This project shows the use of many Design Patterns in order to create clean, reusable and easily maintained code.
 
 The project focuses on the idea of creating an end-to-end order management system for a pizzeria.
 The tagert audience are waiters who work in the pizzeria and need to provide service to the customers.
